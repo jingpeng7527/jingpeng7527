@@ -1,13 +1,15 @@
-### Hi there 👋
 
-[![Jing's GitHub stats](https://github-readme-stats.vercel.app/api?username=jingpeng7527)](https://github.com/jingpeng7527/github-readme-stats&count_private=true&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingpeng7527)](https://github.com/jingpeng7527/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingpeng7527&layout=compact)](https://github.com/jingpeng7527/github-readme-stats)
 
 <!--
 **jingpeng7527/jingpeng7527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- ### Hi there 👋
+
+
+<! --[![Jing's GitHub stats](https://github-readme-stats.vercel.app/api?username=jingpeng7527&count_private=true&show_icons=true&theme=radical)](https://github.com/jingpeng7527/github-readme-stats)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
