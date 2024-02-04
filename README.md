@@ -10,8 +10,8 @@
 const jing = {
   pronouns: "she" | "her",
   code: [Java, Python, C, C++, SQL, JavaScript, Node.js, Ruby, HTML, CSS],
-  Frameworks: [Spring/SpringBoot, Mybatis, Redis, Vue, React, Vutify, Ruby on Rails, Spring Security, Numpy]
-  Other Tools: [Dokku, Nacos, Docker, Nginx, AWS, Wireshark, Elastic Beanstalk, Postman, MongoDB, Liquibase]
+  Frameworks: [SpringBoot, Mybatis, Redis, Vue, React, Vutify, Ruby on Rails, Spring Security, Numpy]
+  Other Tools: [Dokku, Nacos, Docker, Nginx, AWS, Elastic Beanstalk, Postman, MongoDB, Liquibase]
   challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
