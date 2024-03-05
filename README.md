@@ -1,7 +1,5 @@
-
-<h2> Hi, I'm Jing Peng! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Jing Peng! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="https://komarev.com/ghpvc/?username=jingpeng7527&color=green"></h2>
 <img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZpNDRuZmt2czdwNXNiZWw2djB3cmo4MHhyeml0NTdjc2lqeHExaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y4PQTcLTYJwOI/giphy.gif" width="87">
-
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
