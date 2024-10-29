@@ -8,8 +8,8 @@ const jing = {
   pronouns: "she" | "her",
   current: "MSCS @ UCSB, Bionic Vision Lab 🧠",
   Code: [Java, Python, C, C++, SQL, JavaScript, C#, Ruby, HTML, CSS, Processing, MATLAB, LATEX],
-  Frameworks: [SpringBoot, Mybatis, Redis, Vue, React, Vutify, Ruby on Rails, Spring Security, Numpy, Pandas, PyTorch]
-  Other Tools: [Git, AWS, Dokku, Nacos, Docker, Nginx, Apache Tomcat, Elastic Beanstalk, Postman, Wireshark, MongoDB]
+  Frameworks: [SpringBoot, Mybatis, Redis, Vue, React, Vutify, Ruby on Rails, Spring Security, Numpy, Pandas]
+  Other Tools: [Git, AWS, Dokku, Nacos, Docker, Apache Tomcat, Elastic Beanstalk, Postman, Wireshark, MongoDB]
 }
 ```
 
