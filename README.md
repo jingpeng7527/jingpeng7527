@@ -16,12 +16,12 @@ const jing = {
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 16px;">
   <a href="https://github.com/jingpeng7527/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jingpeng7527&layout=compact" style="height: 180px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jingpeng7527&layout=compact" style="height: 160px;" />
   </a>
   <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?activity_type=all&user_id=114365503">
-    <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=114365503&image_size=auto&color_scheme=light" style="height: 180px;" />
+    <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=114365503&image_size=auto&color_scheme=light" style="height: 160px;" />
   </a>
-  <img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-724.gif" style="height: 180px;" />
+  <img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-724.gif" style="height: 160px;" />
 </div>
 
 
