@@ -19,8 +19,8 @@ const jing = {
 
 <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=114365503&period=all_times" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=114365503&period=all_times&image_size=auto&color_scheme=dark" height="160px">
-    <img alt="Contribution Time Distribution of @jingpeng7527" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=114365503&period=all_times&image_size=auto&color_scheme=light" height="160px">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=114365503&period=all_times&image_size=auto&color_scheme=dark" width="350px" height="160px">
+    <img alt="Contribution Time Distribution of @jingpeng7527" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=114365503&period=all_times&image_size=auto&color_scheme=light" width="350px" height="160px">
   </picture>
 </a>
 
