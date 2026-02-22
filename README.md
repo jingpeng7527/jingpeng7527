@@ -5,7 +5,6 @@
 ```javascript
 const jing = {
   pronouns: "she | her",
-  current: "MSCS @ UCSB, Bionic Vision Lab 🧠",
   Code: [Java, Python, C, C++, SQL, JavaScript, C#, Ruby, HTML, CSS, Processing, MATLAB, LATEX],
   Frameworks: [SpringBoot, Mybatis, Redis, Vue, React, Vutify, Ruby on Rails, Spring Security, Numpy, Pandas],
   Other Tools: [Git, AWS, Dokku, Nacos, Docker, Apache Tomcat, Elastic Beanstalk, Postman, Wireshark, MongoDB]
@@ -15,9 +14,9 @@ const jing = {
 ## GitHub Stats
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 16px;">
-  <a href="https://github.com/jingpeng7527/github-readme-stats">
+  <!-- <a href="https://github.com/jingpeng7527/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jingpeng7527&layout=compact" style="height: 160px;" />
-  </a>
+  </a> -->
   <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?activity_type=all&user_id=114365503">
     <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=114365503&image_size=auto&color_scheme=light" style="height: 160px;" />
   </a>
@@ -25,4 +24,4 @@ const jing = {
 </div>
 
 
-<!-- <img align='center' width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=jingpeng7527" alt="jingpeng7527" /> -->
+<!-- <img align='center' width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=jingpeng7527" alt="jingpeng7527" />    current: "MSCS @ UCSB, Bionic Vision Lab 🧠", -->
