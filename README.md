@@ -38,7 +38,7 @@ const jing = {
   <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?activity_type=all&user_id=114365503">
     <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=114365503&image_size=auto&color_scheme=light" style="height: 160px;" />
   </a>
-  <img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-724.gif" style="height: 120px;" />
+  <img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-724.gif" style="height: 100px;" />
 </div>
 
 
