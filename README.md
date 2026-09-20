@@ -6,8 +6,8 @@
 const jing = {
   pronouns: "she | her",
   code: ["Java", "Python", "SQL", "JavaScript", "C", "C#", "LaTeX"],
-  frameworks: ["Spring Boot", "MyBatis", "Redis", "Vue", "React", "Vuetify", "Ruby on Rails", "Spring Security", "NumPy", "Pandas"],
-  otherTools: ["Git", "AWS", "Dokku", "Nacos", "Docker", "Kubernetes", "Jenkins", "Kafka", "RabbitMQ", "Elastic Beanstalk", "Postman", "MongoDB"]
+  frameworks: ["Spring Boot", "MyBatis", "Redis", "Vue", "React", "Spring Security", "NumPy", "Pandas"],
+  otherTools: ["Git", "AWS", "Dokku", "Nacos", "Docker", "Kubernetes", "Jenkins", "Kafka", "RabbitMQ", "Postman", "MongoDB"]
 };
 
 ```
